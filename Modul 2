@@ -1,0 +1,4 @@
+Manajemen Proses dan Memori	
+- Monitoring proses (ps, top, htop)
+- Menjalankan dan mengelola proses (jobs, fg, bg, nohup, kill, nice, renice)
+- Manajemen memori dan swap (free, vmstat, swapon, swapoff)
